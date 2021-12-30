@@ -1,0 +1,2 @@
+# Automata
+course notes
